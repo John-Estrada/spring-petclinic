@@ -21,7 +21,7 @@ pipeline {
 		
 		stage('Deploy') {
 			steps {
-				bat './mvnw spring:deploy'
+				bat './mvnw oceanblue:deploy'
 			}
 		}
     }
