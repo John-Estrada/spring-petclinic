@@ -328,7 +328,7 @@
       <uniqueVersion>false</uniqueVersion>
       <id>testRepository</id>
       <name>Test Repository</name>
-      <url>https://github.com/John-Estrada/spring-petclinic</url>
+      <url>D:\Coding\jenkinsAssignment\myFork</url>
       <layout>default</layout>
     </repository>
   
